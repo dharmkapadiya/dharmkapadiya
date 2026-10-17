@@ -1,24 +1,97 @@
-# 💫 About Me:
-🔭 I’m currently working on  Delta school digital-library system<br>🤝 I’m looking for help with   Delta school digital-library system<br>🌱 I’m currently learning       Javascript<br>💬 Ask me about                     Frontend Web devlopment<br>⚡ Fun fact                                I am student who study in standard 9th
+```{=html}
+<!--
+VERSION 1 — DEVELOPER TERMINAL
+Paste this file's contents into the README.md repository named DharmKapadiya.
+Keep the profile honest: list only tools you have actually used.
+-->
+```
+::: {align="center"}
+`<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=DHARM%20KAPADIYA&fontSize=42&fontColor=EAF2FF&stroke=6EA8FE&strokeWidth=1&animation=fadeIn&color=0:080B12,100:111827&desc=Learning%20to%20build%20for%20the%20web&descAlignY=72&descSize=16" width="100%" alt="Dark developer banner" />`{=html}
 
+### `> building. learning. shipping.`
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dharm_kapadiya_69) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dharm_kapadiya_69) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/dharm_kapadiya_05) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dharm_kapadiya_69) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dharmkapadiya211@gmail.com) 
+**Frontend learner · Student · Curious builder**
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=DharmKapadiya&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=DharmKapadiya&theme=shadow_green&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=DharmKapadiya&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![Profile
+Views](https://komarev.com/ghpvc/?username=DharmKapadiya&style=flat-square&color=273449&label=PROFILE+VIEWS)](https://github.com/DharmKapadiya)
+[![GitHub
+followers](https://img.shields.io/github/followers/DharmKapadiya?style=flat-square&color=273449&label=FOLLOWERS)](https://github.com/DharmKapadiya?tab=followers)
+:::
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DharmKapadiya&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
+------------------------------------------------------------------------
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DharmKapadiya&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+## `01 / about`
 
----
-[![](https://komarev.com/ghpvc/?username=DharmKapadiya&icon=2&color=3)](https://visitcount.itsvg.in)
+Hey, I'm **Dharm** 👋 --- a student exploring web development one
+concept at a time.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+-   🌱 Currently learning **JavaScript fundamentals**
+-   🧱 Comfortable with **HTML and CSS**, including Flexbox and Grid
+-   🏫 Working on the UI for a **school digital-library project**
+-   🧠 Interested in clean interfaces, practical problem-solving, and
+    how products work
+-   🎯 Goal: build useful projects, strengthen my fundamentals, and grow
+    into a capable software developer
+
+> I prefer understanding the why behind the code---not just making it
+> work once.
+
+## `02 / current build`
+
+### 🏫 Delta School Digital Library
+
+A school-library interface project focused on presenting books and
+library information in a clear, usable way.
+
+-   **Focus:** frontend UI and layout
+-   **Learning:** translating a real brief into a structured interface
+-   **Status:** UI work in progress / being refined
+
+*This describes the frontend work; it does not claim that I built the
+backend or completed the whole production system.*
+
+## `03 / toolkit`
+
+```{=html}
+<p>
+```
+`<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />`{=html}
+`<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />`{=html}
+`<img src="https://img.shields.io/badge/JavaScript-learning-F7DF1E?style=flat-square&logo=javascript&logoColor=222222" alt="JavaScript learning" />`{=html}
+`<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />`{=html}
+`<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />`{=html}
+```{=html}
+</p>
+```
+**Currently strengthening:** variables, strings, types, conditions,
+loops, functions, arrays, and problem-solving before moving deeper into
+DOM and events.
+
+## `04 / github activity`
+
+::: {align="center"}
+`<img height="155" src="https://github-readme-stats.vercel.app/api?username=DharmKapadiya&show_icons=true&hide_border=true&title_color=93C5FD&icon_color=93C5FD&text_color=C9D1D9&bg_color=0D1117&rank_icon=github" alt="GitHub stats" />`{=html}
+`<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharmKapadiya&layout=compact&hide_border=true&title_color=93C5FD&text_color=C9D1D9&bg_color=0D1117" alt="Most used languages" />`{=html}
+:::
+
+::: {align="center"}
+`<img src="https://streak-stats.demolab.com?user=DharmKapadiya&hide_border=true&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=93C5FD&sideLabels=C9D1D9&dates=8B949E" width="70%" alt="GitHub contribution streak" />`{=html}
+:::
+
+`<sub>`{=html}Stats are provided by third-party services and may
+occasionally be unavailable or delayed. Language charts are not a
+measure of skill.`</sub>`{=html}
+
+## `05 / outside the editor`
+
+::: {align="center"}
+`<a href="https://instagram.com/dharm_kapadiya_69">`{=html}`<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />`{=html}`</a>`{=html}
+`<a href="https://pinterest.com/dharm_kapadiya_05">`{=html}`<img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />`{=html}`</a>`{=html}
+`<a href="mailto:dharmkapadiya211@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />`{=html}`</a>`{=html}
+:::
+
+::: {align="center"}
+**Small steps. Real projects. Better code.**\
+`<sub>`{=html}Designed in dark mode · Powered by curiosity
+☕`</sub>`{=html}
+:::
