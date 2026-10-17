@@ -1,81 +1,106 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=DHARM%20KAPADIYA&fontSize=42&fontColor=EAF2FF&stroke=6EA8FE&strokeWidth=1&animation=fadeIn&color=0:080B12,100:111827&desc=Learning%20to%20build%20for%20the%20web&descAlignY=72&descSize=16" width="100%" alt="Dharm Kapadiya developer banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=175&text=DHARM%20KAPADIYA&fontSize=40&fontColor=FFF0F0&animation=fadeIn&color=0:260D13,50:5A202B,100:241017&desc=DESIGNING%20MY%20WAY%20INTO%20TECH&descAlignY=72&descSize=14" width="100%" alt="Dharm Kapadiya burgundy developer banner" />
 
-### `> building. learning. shipping.`
+<br/>
 
-**Frontend Developer in Progress · Student · Curious Builder**
-
-![Profile Views](https://komarev.com/ghpvc/?username=DharmKapadiya&style=flat-square&color=273449&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/DharmKapadiya?style=flat-square&color=273449&label=FOLLOWERS)
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20IN%20PUBLIC-CB8A96?style=for-the-badge&labelColor=29151B" alt="Learning in public" />
+<img src="https://img.shields.io/badge/FOCUS-FRONTEND-F3D9DE?style=for-the-badge&labelColor=49202A" alt="Frontend focus" />
 
 </div>
 
 ---
 
-## `01 / about me`
+<table>
+<tr>
+<td width="60%" valign="top">
 
-Hey! I'm **Dharm** 👋
+## ✦ About Me
 
-I'm a student exploring web development and learning how to turn ideas into useful digital experiences.
+Hey, I'm **Dharm** 👋
 
-- 🌱 Currently learning **JavaScript fundamentals**
-- 🎨 Learning and practising **HTML & CSS**
-- 🧩 Exploring CSS Flexbox and Grid
-- 🏫 Working on the **Delta School Digital Library UI**
-- 🎯 My goal is to build useful projects and become a skilled software developer.
+I'm a student learning how to turn ideas into interfaces.
 
-> I don't just want to write code. I want to understand it, improve it, and build things that matter.
+I enjoy the mix of design, logic, and the small details that make a website feel polished.
 
-## `02 / current project`
+**Currently**
+- 🌱 Learning JavaScript
+- 🎨 Practising HTML and CSS
+- 🧱 Exploring Flexbox and Grid
+- 🏫 Refining a school digital-library UI
+- 🚀 Building my foundation one project at a time
+
+</td>
+<td width="40%" valign="middle" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Animated coding illustration" />
+
+<sub>curiosity.exe is always running</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ Current Project
+
+<table>
+<tr>
+<td>
 
 ### 🏫 Delta School Digital Library
 
-A school project focused on building a clean and usable digital-library interface.
+A school project where I'm working on the **frontend interface** for a digital library.
 
-- **Focus:** Frontend UI
-- **Design:** Structured layouts and readable content
-- **Learning:** Turning a real project brief into an interface
+| Area | Focus |
+|:--|:--|
+| UI | Clean layouts and readable content |
+| Styling | Spacing, structure and responsive design |
+| Learning | Turning a project brief into interface components |
 
-*Currently focused on my frontend contribution and improving the project step by step.*
+<sub>My current focus is frontend development and learning through a real project.</sub>
 
-## `03 / tech stack`
+</td>
+</tr>
+</table>
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222" alt="JavaScript" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</p>
-
-## `04 / GitHub analytics`
+## ◈ My Toolkit
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DharmKapadiya&show_icons=true&hide_border=true&title_color=93C5FD&icon_color=93C5FD&text_color=C9D1D9&bg_color=0D1117" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharmKapadiya&layout=compact&hide_border=true&title_color=93C5FD&text_color=C9D1D9&bg_color=0D1117" alt="Most used languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=DharmKapadiya&hide_border=true&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=93C5FD&sideLabels=C9D1D9&dates=8B949E" width="75%" alt="GitHub contribution streak" />
+| CORE | LEARNING | WORKFLOW |
+|:---:|:---:|:---:|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=flat-square&logo=javascript&logoColor=222) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | Fundamentals → DOM | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
 </div>
 
-## `05 / connect with me`
+## ◈ Developer Dashboard
 
 <div align="center">
 
-<a href="https://instagram.com/dharm_kapadiya_69"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://pinterest.com/dharm_kapadiya_05"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
-<a href="mailto:dharmkapadiya211@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=DharmKapadiya&show_icons=true&hide_border=true&title_color=F3C7D0&icon_color=E7A2B2&text_color=F4E8EA&bg_color=241017" width="48%" alt="GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharmKapadiya&layout=compact&hide_border=true&title_color=F3C7D0&text_color=F4E8EA&bg_color=241017" width="48%" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=DharmKapadiya&hide_border=true&background=241017&ring=E7A2B2&fire=F3C7D0&currStreakLabel=F3C7D0&sideLabels=F4E8EA&dates=B99AA1" width="75%" alt="Contribution streak" />
+
+</div>
+
+## ◈ Let's Connect
+
+<div align="center">
+
+<a href="https://instagram.com/dharm_kapadiya_69"><img src="https://img.shields.io/badge/Instagram-49202A?style=for-the-badge&logo=instagram&logoColor=F3C7D0" alt="Instagram" /></a>
+<a href="https://pinterest.com/dharm_kapadiya_05"><img src="https://img.shields.io/badge/Pinterest-49202A?style=for-the-badge&logo=pinterest&logoColor=F3C7D0" alt="Pinterest" /></a>
+<a href="mailto:dharmkapadiya211@gmail.com"><img src="https://img.shields.io/badge/Email-49202A?style=for-the-badge&logo=gmail&logoColor=F3C7D0" alt="Email" /></a>
 
 <br/><br/>
 
-**Small steps. Real projects. Better code.** 🚀
-
-<sub>Learning in public, improving every day.</sub>
+*Making progress quietly. Letting the projects speak.* ✦
 
 </div>
